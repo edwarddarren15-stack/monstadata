@@ -1,0 +1,41 @@
+{
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "용살자의 빼어난 회귀 / Return of the Unrivaled Spear Knight",
+  "status": "Ongoing",
+  "author": "Heo Ne-gwa",
+  "artist": "Potato",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Setelah membunuh Raja Naga terakhir yang membawa kehancuran bagi dunia, pahlawan umat manusia tidak menemukan kedamaian, melainkan pengkhianatan dari orang-orang yang ia lindungi. Di saat-saat terakhirnya, sebuah keajaiban terjadi. Ia kembali ke masa lalu dengan ingatan utuh dan kekuatan luar biasa. Kini, ia tidak hanya akan membunuh naga, tapi juga mereka yang berani memanfaatkannya.",
+  "cover_url": "https://raw.githubusercontent.com/Username/monstacomic-assets/main/covers/dragonslayer-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kematian dan Permulaan Baru",
+      "images": [
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch001/01.jpg",
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch001/02.jpg",
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch001/03.jpg",
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch001/04.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Ujian Pertama Sang Pemburu",
+      "images": [
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch002/01.jpg",
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch002/02.jpg",
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch002/03.jpg",
+        "https://raw.githubusercontent.com/Username/monstacomic-assets/main/comics/dragonslayer/ch002/04.jpg"
+      ]
+    }
+  ]
+}
