@@ -12,5 +12,47 @@
     "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=I%20Killed%20an%20Aca",
     "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Thriller/I%20Killed%20an%20Academy%20Player.cbz",
     "category": "Thriller"
+  },
+  {
+    "id": "790821861aefb75dde99a774dd980ff37ba2b669",
+    "title": "A Cadet Becomes a Prophet (1)",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=A%20Cadet%20Becomes",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Biopic/A%20Cadet%20Becomes%20a%20Prophet%20(1).cbz",
+    "category": "Biopic"
+  },
+  {
+    "id": "d018ced58c2ba5ea24b04c37cfe6671e0b32a82f",
+    "title": "Academy s Genius Swordmaster",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=Academy%20s%20Geniu",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Biopic/Academy_s%20Genius%20Swordmaster.cbz",
+    "category": "Biopic"
+  },
+  {
+    "id": "3faae317837088ae96d471df4dcc8270e63977eb",
+    "title": "Crimson Reset",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=Crimson%20Reset",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Biopic/Crimson%20Reset.cbz",
+    "category": "Biopic"
+  },
+  {
+    "id": "c07cdc4fe89eb70d3fb5e6e2e8b064fd14fe7eda",
+    "title": "Children of the Rune",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=Children%20of%20the",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Horror/Children%20of%20the%20Rune.cbz",
+    "category": "Horror"
+  },
+  {
+    "id": "7d1b2739ea130372fe4c2e626138a66795c19480",
+    "title": "Chronicles Of The Martial God s Return",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=Chronicles%20Of%20T",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Horror/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz",
+    "category": "Horror"
+  },
+  {
+    "id": "af100982e2ad2e096e5bb4874bfc2ab9d966a425",
+    "title": "Echoes of the Reverse Planet",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=Echoes%20of%20the%20R",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Horror/Echoes%20of%20the%20Reverse%20Planet.cbz",
+    "category": "Horror"
   }
 ]
