@@ -54,5 +54,19 @@
     "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=Echoes%20of%20the%20R",
     "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Horror/Echoes%20of%20the%20Reverse%20Planet.cbz",
     "category": "Horror"
+  },
+  {
+    "id": "076acfc08c642a52a31f451c97f98aa240b8006b",
+    "title": "Genius Prismatic Mage",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=Genius%20Prismati",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Fantasy/Genius%20Prismatic%20Mage.cbz",
+    "category": "Fantasy"
+  },
+  {
+    "id": "4424d3837d97b0b308455f7476f61ae1ced5e4d2",
+    "title": "I Obtained a Mythic Item",
+    "thumb": "https://via.placeholder.com/200x300/222/39ff14?text=I%20Obtained%20a%20My",
+    "cbz": "https://raw.githubusercontent.com/edwarddarren15-stack/monstadata/main/Fantasy/I%20Obtained%20a%20Mythic%20Item.cbz",
+    "category": "Fantasy"
   }
 ]
